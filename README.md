@@ -1,2 +1,3 @@
 # hello-world
-test&amp;first
+test code
+it is fisrt time to use github
